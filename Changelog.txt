@@ -1,6 +1,0 @@
-SolarFlare v000001
-
-[+] Added mods
-[+] Added HUD
-[+] Added toggler
-[+] and much more
